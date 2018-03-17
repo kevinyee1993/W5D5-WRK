@@ -1,0 +1,40 @@
+/* PHASE 5: Cats */
+.content_header{
+  height:300px;
+  width: 100%;
+  background-size:contain;
+  background-image: url("/Users/appacademy/Desktop/w5d5/css-friends-05/skeleton/cutie dog pic.jpg");
+
+
+}
+
+.content_header img {
+  height:70%;
+  width: 100%;
+}
+
+
+.content_header h2 {
+  position: absolute;
+  top:30%;
+  font-size: 30px;
+  color: white;
+  left: 40%;
+  text-shadow: 2px 2px #ff0000;
+
+}
+
+.content_header button {
+  position: absolute;
+  top:30%;
+  left: 65%;
+  color: black;
+  font-size: 20px;
+  background-color: white;
+  padding: 10px;
+  border-radius: 10%;
+}
+
+.content_header button:hover{
+  background-color: grey;
+}

@@ -1,0 +1,17 @@
+/* PHASE 6: Sidebar */
+.profile-picture a {
+  display: inline-block;
+  color: hotpink;
+
+
+  /* position: absolute; */
+
+
+}
+
+
+.profile-picture img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
